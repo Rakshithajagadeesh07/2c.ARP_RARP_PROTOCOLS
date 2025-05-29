@@ -39,7 +39,7 @@ c.close()
 ```
 ### SERVER:
 ```python
-#NAMR:RAKSHITHA J
+#NAME:RAKSHITHA J
 #REG NO: 212223240135
 
 import socket 
